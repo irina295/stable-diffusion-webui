@@ -1,0 +1,1 @@
+https://github.com/Mikubill/sd-webui-controlnet.git
